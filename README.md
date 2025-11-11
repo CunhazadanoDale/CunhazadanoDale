@@ -2,7 +2,6 @@
 <i>
   Sou um desenvolvedor backend com foco em Java e no ecossistema Spring Boot, utilizando ferramentas como JPA, Hibernate, Docker e JUnit no desenvolvimento de APIs REST robustas e escaláveis.
   
-
   Atualmente, atuo como Júnior em uma empresa que fornece endereços fiscais, onde participo de projetos reais com boas práticas de arquitetura, versionamento de código com Git e integração com bancos de dados relacionais. Tenho experiência também com C# e mantenho projetos pessoais voltados a jogos e sistemas interativos, nos quais exploro lógica, usabilidade e persistência de dados.
 
   Estou em constante evolução, sempre buscando aprender e aplicar novas tecnologias no desenvolvimento de soluções eficientes e bem estruturadas.
@@ -43,17 +42,11 @@
   </div>
   <br>
 <div>
-  <a href="mailto:guimendesmen124@gmail.com" target="_blank"><img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilherme-mendes-gomes/" target="_blank"><img align="center" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/gui.espanhol_" target="_blank"><img align="center" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+  <a href="mailto:cunha12324@gmail.com" target="_blank"><img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabrielcunha12324/" target="_blank"><img align="center" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <h1></h1>
 
 <div align="center">
   <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=1000&height=45&lines=Quem+anda+na+integridade+anda+seguro,+quem+falseia+seus+caminhos+será+descoberto.+-+(Provérbio+10:9)">
-
-### 📫 Contato
-- Email: cunha12324@gmail.com
-
 </div>
