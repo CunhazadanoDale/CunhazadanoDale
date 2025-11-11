@@ -1,6 +1,7 @@
  ## Boas novas, sou Gabriel !
 <i>
   Sou um desenvolvedor backend com foco em Java e no ecossistema Spring Boot, utilizando ferramentas como JPA, Hibernate, Docker e JUnit no desenvolvimento de APIs REST robustas e escaláveis.
+  
 
   Atualmente, atuo como Júnior em uma empresa que fornece endereços fiscais, onde participo de projetos reais com boas práticas de arquitetura, versionamento de código com Git e integração com bancos de dados relacionais. Tenho experiência também com C# e mantenho projetos pessoais voltados a jogos e sistemas interativos, nos quais exploro lógica, usabilidade e persistência de dados.
 
@@ -9,8 +10,8 @@
 <br>
 <br>
 <div align = "center">    
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=guilherme0112&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0112&layout=compact&langs_count=7&theme=dark"/>    
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=CunhazadanoDale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CunhazadanoDale&layout=compact&langs_count=7&theme=dark"/>    
 </div>
 <h3>Skills:</h3>
 <div>
